@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.1)  19 SEP 2025 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.1)  19 SEP 2025 12:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -882,7 +882,13 @@ LaTeX Info: Symbol \textopenbullet not provided by
             font family zpltlf in TS1 encoding.
             Default family used instead on input line 145.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 166.
+(Font)              scaled to size 10.95pt on input line 164.
+LaTeX Info: Symbol \textopenbullet not provided by
+            font family zpltlf in TS1 encoding.
+            Default family used instead on input line 172.
+LaTeX Info: Symbol \textopenbullet not provided by
+            font family zpltlf in TS1 encoding.
+            Default family used instead on input line 173.
 LaTeX Info: Symbol \textopenbullet not provided by
             font family zpltlf in TS1 encoding.
             Default family used instead on input line 174.
@@ -892,9 +898,6 @@ LaTeX Info: Symbol \textopenbullet not provided by
 LaTeX Info: Symbol \textopenbullet not provided by
             font family zpltlf in TS1 encoding.
             Default family used instead on input line 176.
-LaTeX Info: Symbol \textopenbullet not provided by
-            font family zpltlf in TS1 encoding.
-            Default family used instead on input line 177.
 
 
 [1
@@ -906,38 +909,32 @@ f-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/opt/texlive/texdir/texmf-dist/fon
 ts/enc/dvips/fontawesome5/fa5free2.enc}{/opt/texlive/texdir/texmf-dist/fonts/en
 c/dvips/fontawesome5/fa5brands0.enc}{/opt/texlive/texdir/texmf-dist/fonts/enc/d
 vips/cm-super/cm-super-ts1.enc}{/opt/texlive/texdir/texmf-dist/fonts/enc/dvips/
-newpx/zpl_TOsF.enc}]
-LaTeX Info: Symbol \textopenbullet not provided by
-            font family zpltlf in TS1 encoding.
-            Default family used instead on input line 178.
-
-
-[2] (./main.aux)
+newpx/zpl_TOsF.enc}] (./main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: BD47A05BDC0DD0683C759330D77B10C3;574.
+(rerunfilecheck)             Checksum: 87B76089D5DC486D4F517CA0D51D0044;468.
  ) 
 Here is how much of TeX's memory you used:
- 26520 strings out of 467888
- 503155 string characters out of 5436152
- 885432 words of memory out of 5000000
- 54619 multiletter control sequences out of 15000+600000
+ 26517 strings out of 467888
+ 503129 string characters out of 5436152
+ 887432 words of memory out of 5000000
+ 54618 multiletter control sequences out of 15000+600000
  658196 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,11n,107p,407b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,407b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5B
 rands-Regular.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesom
 e5/FontAwesome5Free-Solid.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1000.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-s
 uper/sfrm1095.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/newpx/zplb
 .pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
-Output written on main.pdf (2 pages, 122155 bytes).
+Output written on main.pdf (1 page, 121500 bytes).
 PDF statistics:
- 98 PDF objects out of 1000 (max. 8388607)
- 77 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 90 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
+ 53 words of extra memory for PDF output out of 10000 (max. 10000000)
 
