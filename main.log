@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.1)  19 SEP 2025 12:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.7.1)  19 SEP 2025 14:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -839,6 +839,8 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 114.
+LaTeX Font Info:    Font shape `T1/zpltlf/m/n' will be
+(Font)              scaled to size 8.0pt on input line 114.
 LaTeX Font Info:    Trying to load font information for TS1+zpltlf on input lin
 e 116.
 
@@ -881,13 +883,14 @@ LaTeX Info: Symbol \textopenbullet not provided by
 LaTeX Info: Symbol \textopenbullet not provided by
             font family zpltlf in TS1 encoding.
             Default family used instead on input line 145.
-
-Overfull \hbox (33.75462pt too wide) in alignment at lines 150--150
-[] [] 
- []
-
+LaTeX Info: Symbol \textopenbullet not provided by
+            font family zpltlf in TS1 encoding.
+            Default family used instead on input line 152.
 LaTeX Font Info:    Font shape `TS1/zpltlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 164.
+(Font)              scaled to size 10.95pt on input line 163.
+LaTeX Info: Symbol \textopenbullet not provided by
+            font family zpltlf in TS1 encoding.
+            Default family used instead on input line 171.
 LaTeX Info: Symbol \textopenbullet not provided by
             font family zpltlf in TS1 encoding.
             Default family used instead on input line 172.
@@ -900,9 +903,6 @@ LaTeX Info: Symbol \textopenbullet not provided by
 LaTeX Info: Symbol \textopenbullet not provided by
             font family zpltlf in TS1 encoding.
             Default family used instead on input line 175.
-LaTeX Info: Symbol \textopenbullet not provided by
-            font family zpltlf in TS1 encoding.
-            Default family used instead on input line 176.
 
 
 [1
@@ -923,20 +923,20 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 87B76089D5DC486D4F517CA0D51D0044;468.
  ) 
 Here is how much of TeX's memory you used:
- 26517 strings out of 467888
- 503129 string characters out of 5436152
- 888432 words of memory out of 5000000
- 54618 multiletter control sequences out of 15000+600000
- 658196 words of font info for 68 fonts, out of 8000000 for 9000
+ 26520 strings out of 467888
+ 503204 string characters out of 5436152
+ 887432 words of memory out of 5000000
+ 54621 multiletter control sequences out of 15000+600000
+ 661225 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,11n,107p,407b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,407b,600s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5B
 rands-Regular.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/fontawesom
 e5/FontAwesome5Free-Solid.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
 c/cm-super/sfrm1000.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/cm-s
 uper/sfrm1095.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/newpx/zplb
 .pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/newpx/zplr.pfb>
-Output written on main.pdf (1 page, 121528 bytes).
+Output written on main.pdf (1 page, 123017 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream

@@ -330,6 +330,7 @@ INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/latex-fonts/lasy10.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
 INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/newpx/zpl-Bold-tlf-t1.tfm
+INPUT /opt/texlive/texdir/texmf-dist/fonts/tfm/public/newpx/zpl-Regular-tlf-t1.tfm
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
 INPUT /opt/texlive/texdir/texmf-dist/tex/latex/newpx/ts1zpltlf.fd
