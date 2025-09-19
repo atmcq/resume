@@ -24,9 +24,7 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y imagemagick poppler-utils
 
       - name: Convert first page of PDF to PNG
-        run: |
-          pdftoppm -png -f 1 -singlefile main.pdf main_preview
-          mv main_preview.png ./  # optional, ensure it's in root
+        run: pdftoppm -png -f 1 -singlefile main.pdf main_preview
 
       - name: Deploy PDF and preview to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
