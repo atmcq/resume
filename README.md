@@ -16,7 +16,7 @@ Click the image below to download the PDF:
 
 ## Repository Contents
 
-This repository contains my CV in LaTeX format. The PDF is automatically built and deployed to GitHub Pages.
+This repository contains my CV in LaTeX format. The PDF is automatically built and deployed to GitHub Pages. It uses a slightly modified version of [Ethan's Resume Template](https://github.com/necusjz/resume.tex) by [necusjz](https://github.com/necusjz).
 
 - `main.tex` — LaTeX source for the CV  
 - `main.pdf` — Compiled PDF (auto-generated via GitHub Actions)  
