@@ -1,0 +1,35 @@
+name: Build LaTeX PDF and Preview
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup TeX Live
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: main.tex
+          latexmk_use_lualatex: false
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick poppler-utils
+
+      - name: Convert first page of PDF to PNG
+        run: |
+          pdftoppm -png -f 1 -singlefile main.pdf main_preview
+          mv main_preview.png ./  # optional, ensure it's in root
+
+      - name: Deploy PDF and preview to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./   # deploys root folder (main.pdf + main_preview.png)
