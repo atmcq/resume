@@ -4,7 +4,7 @@ Hi, I’m Andrew McQuillen (https://github.com/atmcq). I am a Senior Engineer an
 
 I like to build impactful software, talk to people and solve problems. 
 
-Most of my code contributions are found in my employer's enterprise GitHub (it's here if you happen to be a Civican). However if you would like to know more about what I do, my resume is below.
+Most of my code contributions are found in my employer's enterprise GitHub ([it's here](https://github.com/Andrew-McQuillen_civica) if you happen to be a Civican). However if you would like to know more about what I do, my resume is below.
 
 
 ## PDF Preview
